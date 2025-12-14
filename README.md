@@ -10,7 +10,7 @@
 
 ### Solution Description
 
-My solution addresses the problem of classifying the complexity/readability of Hungarian legal texts on a scale of 1 to 5. I implemented a Deep Learning model based on **Transfer Learning**.
+I implemented a solution using TensorFlow 2.16.1 to figure out the readability of Hungarian legal texts (ASZF) on a 1-to-5 scale.
 
 **Methodology:**
 1.  **Data Processing**: JSON files from Label Studio are processed, extracting text and labels. The dataset is split into Train (70%), Validation (15%), and Test (15%) sets.
