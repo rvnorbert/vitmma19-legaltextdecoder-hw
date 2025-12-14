@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==1.26.4
+protobuf==4.25.3
+scikit-learn==1.5.0
+matplotlib==3.9.0
+seaborn==0.13.2
+transformers==4.45.0
+jupyterlab==4.2.5
+joblib==1.4.2
+tqdm==4.66.5
+tf-keras==2.16.0
